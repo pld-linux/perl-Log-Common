@@ -6,7 +6,8 @@ Summary(pl):	Modu³ perla Log::Common
 Name:		perl-Log-Common
 Version:	1.00
 Release:	9
-License:	GPL
+# same as perl
+License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	d43342731ea415cfb2e49ac4a06c73cf
