@@ -5,7 +5,7 @@ Summary:	Log::Common perl module
 Summary(pl):	Modu³ perla Log::Common
 Name:		perl-Log-Common
 Version:	1.00
-Release:	9
+Release:	10
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
