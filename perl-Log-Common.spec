@@ -1,8 +1,8 @@
 %include	/usr/lib/rpm/macros.perl
 %define	pdir	Log
 %define	pnam	Common
-Summary:	Log-Common perl module
-Summary(pl):	Modu³ perla Log-Common
+Summary:	Log::Common perl module
+Summary(pl):	Modu³ perla Log::Common
 Name:		perl-Log-Common
 Version:	1.00
 Release:	8
@@ -15,10 +15,10 @@ BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-Log-Common logs messages in the httpd access and error log styles.
+Log::Common logs messages in the httpd access and error log styles.
 
 %description -l pl
-Log-Common zapisuje logi w sposób podobny do logów access i error
+Log::Common zapisuje logi w sposób podobny do logów access i error
 serwera httpd.
 
 %prep
