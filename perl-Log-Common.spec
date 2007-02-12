@@ -2,7 +2,7 @@
 %define		pdir	Log
 %define		pnam	Common
 Summary:	Log::Common perl module
-Summary(pl):	Modu≥ perla Log::Common
+Summary(pl.UTF-8):   Modu≈Ç perla Log::Common
 Name:		perl-Log-Common
 Version:	1.00
 Release:	10
@@ -19,8 +19,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Log::Common logs messages in the httpd access and error log styles.
 
-%description -l pl
-Log::Common zapisuje logi w sposÛb podobny do logÛw access i error
+%description -l pl.UTF-8
+Log::Common zapisuje logi w spos√≥b podobny do log√≥w access i error
 serwera httpd.
 
 %prep
