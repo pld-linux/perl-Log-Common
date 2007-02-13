@@ -2,7 +2,7 @@
 %define		pdir	Log
 %define		pnam	Common
 Summary:	Log::Common perl module
-Summary(pl.UTF-8):   Moduł perla Log::Common
+Summary(pl.UTF-8):	Moduł perla Log::Common
 Name:		perl-Log-Common
 Version:	1.00
 Release:	10
