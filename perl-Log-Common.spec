@@ -1,6 +1,5 @@
 %define		pdir	Log
 %define		pnam	Common
-%include	/usr/lib/rpm/macros.perl
 Summary:	Log::Common perl module
 Summary(pl.UTF-8):	Moduł perla Log::Common
 Name:		perl-Log-Common
